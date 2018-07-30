@@ -1,0 +1,13 @@
+#, fuzzy
+
+#: Title
+msgid "Page Title"
+msgstr "Seitentitel"
+
+#: Header
+msgid "1.1 Introduction"
+msgstr "1.1 Einführung"
+
+#: Sentence
+msgid "The quick brown fox..."
+msgstr "Der schnelle braune Fuchs..."
