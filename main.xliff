@@ -1,0 +1,22 @@
+ns-unit approved="no" id="5" resname="res5" xml:space="default">
+  <source xml:lang="en">
+    This is <bpt id="1" ctype="bold"><b></bpt>bold<ept id="1"></b></ept> text
+  </source>
+  <target xml:lang="es"/>
+  <alt-trans match-quality="100" origin="web" tool="TM Search">
+    <source xml:lang="en">
+      This is <bpt id="1" ctype="bold"><b></bpt>bold<ept id="1"></b></ept> text
+    </source>
+    <target xml:lang="es">
+      Este es texto <bpt id="1" ctype="bold"><b></bpt>enfatizado<ept id="1"></b></ept>
+    </target>
+  </alt-trans>
+  <alt-trans match-quality="96" origin="rtf" tool="TM Search">
+    <source xml:lang="en">
+      This is <bpt id="1" ctype="bold">\b</bpt>bold<ept id="1">\b0</ept> text
+    </source>
+    <target xml:lang="es">
+      Este es texto <bpt id="1" ctype="bold">\b</bpt>enfatizado<ept id="1">\b0</ept>
+    </target>
+  </alt-trans>
+</trans-unit>
