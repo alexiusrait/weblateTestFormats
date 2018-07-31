@@ -1,4 +1,4 @@
-ns-unit approved="no" id="5" resname="res5" xml:space="default">
+<trans-unit approved="no" id="5" resname="res5" xml:space="default">
   <source xml:lang="en">
     This is <bpt id="1" ctype="bold"><b></bpt>bold<ept id="1"></b></ept> text
   </source>
