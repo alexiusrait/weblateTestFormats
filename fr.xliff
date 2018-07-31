@@ -15,7 +15,7 @@
   <body>
    <trans-unit id="1" maxbytes="14" approved="yes">
     <source xml:lang="en-US">Quetzal</source>
-    <target xml:lang=""/>
+    <target xml:lang="fr">..</target>
    </trans-unit>
    <trans-unit id="3" maxbytes="114" approved="yes">
     <source xml:lang="en-US">An application to manipulate and 
